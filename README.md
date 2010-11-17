@@ -32,7 +32,7 @@ way that data is displayed through a Flash frontend.
 
 I am happy to announce that approval to release nbesort.rb to the world was
 granted, and the (open source) script is available on GitHub at
-https://github.com/davidshaw/nbeparse.rb/
+https://github.com/davidshaw/nbesort.rb/
 
 Using nbesort.rb to sort Nessus results by finding is very simple. The first
 step to using nbesort.rb is to login to the web portal and export your
