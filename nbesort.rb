@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 """
 @Author	:	David Shaw
 @Date	:	September 22, 2010
